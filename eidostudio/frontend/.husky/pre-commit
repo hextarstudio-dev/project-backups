@@ -1,3 +1,0 @@
-#!/usr/bin/env sh
-cd site-studio
-npx lint-staged
